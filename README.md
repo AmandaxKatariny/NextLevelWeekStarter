@@ -10,7 +10,7 @@
 - [Notion](https://www.notion.so/)
     - Notion is the all-in-one workspace for your notes, tasks, wikis, and databases.
 
-- [CodePen]((https://codepen.io/pen)
+- [CodePen](https://codepen.io/pen)
     - CodePen is a social development environment for front-end designers and developers.
 
 ## Lessons
@@ -23,8 +23,9 @@
  
  - [CodePen](https://codepen.io/Amanda0Katariny/pen/LYGVppj?editors=0010)
 
- :trophy: ~~[ day 3](https://nextlevelweek.com/aulas/starter/3/edicao/1)~~
+ ~~[ day 3](https://nextlevelweek.com/aulas/starter/3/edicao/1)~~
 
- :trophy: ~~[ day 4](https://nextlevelweek.com/aulas/starter/4/edicao/1)~~
+ ~~[ day 4](https://nextlevelweek.com/aulas/starter/4/edicao/1)~~
 
- :trophy: ~~[ day 5](https://nextlevelweek.com/aulas/starter/5/edicao/1)~~
+ ~~[ day 5](https://nextlevelweek.com/aulas/starter/5/edicao/1)~~
+ 
