@@ -18,19 +18,17 @@
 
 ## Lessons
 :trophy: *[ day 1](https://nextlevelweek.com/aulas/starter/1/edicao/1)*
-          
+
 - [notion - Front-end](https://www.notion.so/Front-end-7c8a1a9a6df547058f1473f899a3b9c4)
 
-
  :trophy: *[ day 2](https://nextlevelweek.com/aulas/starter/2/edicao/1)*
- 
+
  - [CodePen](https://codepen.io/Amanda0Katariny/pen/LYGVppj?editors=0010)
 
  :trophy: *[ day 3](https://nextlevelweek.com/aulas/starter/3/edicao/1)*
 
  :trophy: *[ day 4](https://nextlevelweek.com/aulas/starter/4/edicao/1)*
- 
+
 - [Back-end](https://www.notion.so/Back-end-fd95f93735ff4cb2b18e7ce4f47636b6)
 
  ~~[ day 5](https://nextlevelweek.com/aulas/starter/5/edicao/1)~~
- 
