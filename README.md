@@ -26,9 +26,11 @@
  
  - [CodePen](https://codepen.io/Amanda0Katariny/pen/LYGVppj?editors=0010)
 
- ~~[ day 3](https://nextlevelweek.com/aulas/starter/3/edicao/1)~~
+ :trophy: *[ day 3](https://nextlevelweek.com/aulas/starter/3/edicao/1)*
 
  ~~[ day 4](https://nextlevelweek.com/aulas/starter/4/edicao/1)~~
+ 
+- [Back-end](https://www.notion.so/Back-end-fd95f93735ff4cb2b18e7ce4f47636b6)
 
  ~~[ day 5](https://nextlevelweek.com/aulas/starter/5/edicao/1)~~
  
