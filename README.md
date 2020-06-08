@@ -1,5 +1,5 @@
 # NextLevelWeek - Starter
-> project status: *under construction* 
+> project status: *Continuous Improvement - finished* 
 
 ## Course Offered by RocketSeat - 2020 NLW #1 Starter
 
@@ -29,6 +29,6 @@
 
  :trophy: *[ day 4](https://nextlevelweek.com/aulas/starter/4/edicao/1)*
 
-- [Back-end](https://www.notion.so/Back-end-fd95f93735ff4cb2b18e7ce4f47636b6)
+ - [Back-end](https://www.notion.so/Back-end-fd95f93735ff4cb2b18e7ce4f47636b6)
 
- ~~[ day 5](https://nextlevelweek.com/aulas/starter/5/edicao/1)~~
+ :trophy: *[ day 5](https://nextlevelweek.com/aulas/starter/5/edicao/1)*
